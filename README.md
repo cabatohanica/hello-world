@@ -1,6 +1,4 @@
 # hello-world
-Just a sample repository
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat ante eget auctor feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Maecenas non enim feugiat. Pellentesque convallis metus venenatis justo egestas placerat. Donec euismod dui mauris, quis fermentum lectus fringilla sit amet. 

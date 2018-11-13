@@ -3,13 +3,6 @@ Just a sample repository
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam volutpat ante eget auctor feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-
-678910.
-
-0987654321
-.
-
-
 Maecenas non enim feugiat. Pellentesque convallis metus venenatis justo egestas placerat. Donec euismod dui mauris, quis fermentum lectus fringilla sit amet. 
 
 
